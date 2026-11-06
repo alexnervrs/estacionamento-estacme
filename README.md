@@ -1,4 +1,4 @@
-# EstACME — Sistema de Controle de Estacionamento
+# EstACME - Sistema de Controle de Estacionamento
 
 ![Tests](https://github.com/alexnervrs/estacionamento-estacme/actions/workflows/tests.yml/badge.svg)
 
