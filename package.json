@@ -1,0 +1,17 @@
+{
+  "name": "estacionamento-estacme",
+  "version": "2.0.0",
+  "description": "Sistema de Controle de Estacionamento EstACME - Fase 2 (POO): persistencia em CSV, interface com o usuario e relatorios gerenciais",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "node src/testes.js"
+  },
+  "keywords": ["poo", "javascript", "estacionamento", "csv"],
+  "author": "Alex Barroso Bezerra Lima",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16"
+  }
+}

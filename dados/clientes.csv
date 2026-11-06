@@ -1,0 +1,7 @@
+cpfCnpj,nome,tipo,placas,creditos,saldoDevedor
+12345678901,Joao Silva,Estudante,ABC1D23,25.00,
+23456789012,Beatriz Amaral,Estudante,DEF2H34,-25.00,
+34567890123,Carlos Oliveira,Professor,JKL4G56|GHI3F45,,
+45678901234,Helena Prado,Professor,MNO5H67,,
+56789012000145,Tecnopuc S.A.,Empresa,STU7J89|VWX8K90,,0.00
+67890123000156,Delta Logistica LTDA,Empresa,PQR6I78,,70.00
